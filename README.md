@@ -16,6 +16,7 @@ This repository contains testing artifacts for the Internship Management System.
 - Test Cases: /LeNguyenThanhDat_TCS_PSI_Ver1.0.xlsx
   ![Test Cases](./Evidence/TestCase.png)
 - Defect List: /LeNguyenThanhDat_DefectList_PSI.xlsx
+  ![Defect List](./Evidence/DefectList.png)
 - Test Report: /TestReport.docx
   
 - ## 📊 Summary
