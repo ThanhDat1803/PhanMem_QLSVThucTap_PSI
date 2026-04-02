@@ -14,7 +14,7 @@ This repository contains testing artifacts for the Internship Management System.
 ## 📂 Documents
 - Tìm Hiểu Yêu cầu: /LeNguyenThanhDat_Timhieu_PSI_ver1.0.docx
 - Test Cases: /LeNguyenThanhDat_TCS_PSI_Ver1.0.xlsx
-  ![Test Cases](./Evidence/testcases.png)
+  ![Test Cases](./Evidence/TestCase.png)
 - Defect List: /LeNguyenThanhDat_DefectList_PSI.xlsx
 - Test Report: /TestReport.docx
   
